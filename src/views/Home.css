@@ -1,0 +1,29 @@
+
+  .card__list{
+    max-width: 75%;
+    margin: 0 auto; 
+  }
+
+  .card__item{
+    float: none;
+  }
+
+  .card__status{
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    border-radius: 50%;
+  }
+
+  .card__status--inactive{
+    background-color: gray;
+  }
+
+  .Content {
+    display: list-item;
+    width: 85%;
+  }
+
+  .content_item{
+    float: right;
+  }
